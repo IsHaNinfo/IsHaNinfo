@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ishan info" target="blank"><img src="https://img.shields.io/twitter/follow/ishan info?logo=twitter&style=for-the-badge" alt="ishan info" /></a> </p>
 
-- 🔭 I’m currently working on **Software project management system**
+- 🔭 I’m currently working on **Software project management system project and  i hope to devloped new project for boarding reservation**
 
 - 🌱 I’m currently learning **React.js,Next.js,Node.js,mongoDB,mySQL**
 
