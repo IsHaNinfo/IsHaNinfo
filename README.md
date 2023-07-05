@@ -22,7 +22,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kEMyQoKqa6ECtc8wHxyCj1yudwdNB27I/view](https://drive.google.com/file/d/1kEMyQoKqa6ECtc8wHxyCj1yudwdNB27I/view)
 
 - ⚡ Fun fact **I am funny and like share my knowlwdege**
-
+  
+- Link with my personal portfolio website  [https://ishannethminaportfolio.netlify.app/]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ishan info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishan info" height="30" width="40" /></a>
