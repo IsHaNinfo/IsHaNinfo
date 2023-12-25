@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfGeCgkqF193ZPVavFXIX6Bs5PyynvI6Uk-g&usqp=CAU))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ishan Nethmina</h1>
 <h3 align="center">I'm pursuing BSc.(Hons) Information Technology and Management degree at University of Moratuwa, Sri Lanka</h3>
 
