@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **MERN Stack I like to engage with diffent technologies**
 
-- 👨‍💻 All of my projects are available at [https://ishannethminaportfolio.netlify.app/](https://ishannethminaportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://www.ishannethmina.com/)]
 
 - 📝 I regularly write articles on [https://medium.com/@ishaninfo56](https://medium.com/@ishaninfo56)
 
