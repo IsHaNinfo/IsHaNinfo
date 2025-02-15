@@ -23,7 +23,6 @@
 
 - 📫 How to reach me **ishaninfo56@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFluidD-fg/w5pdE9DNydvdqf6gzxDI3Q/edit?utm_content=DAFluidD-fg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFluidD-fg/w5pdE9DNydvdqf6gzxDI3Q/edit?utm_content=DAFluidD-fg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
