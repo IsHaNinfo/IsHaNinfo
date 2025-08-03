@@ -11,9 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/ishannethmina" target="blank"><img src="https://img.shields.io/twitter/follow/ishannethmina?logo=twitter&style=for-the-badge" alt="ishannethmina" /></a> </p>
 
-- 🔭 I’m currently working on **Job Search MERN Stack project**
-
-- 🌱 I’m currently learning **MERN Stack I like to engage with diffent technologies**
 
 - 👨‍💻 All of my projects are available at [(https://www.ishannethmina.com/)]
 
