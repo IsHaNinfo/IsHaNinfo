@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaninfo" alt="ishaninfo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ishannethmina" target="blank"><img src="https://img.shields.io/twitter/follow/ishannethmina?logo=twitter&style=for-the-badge" alt="ishannethmina" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [(https://www.ishannethmina.com/)]
